@@ -16,13 +16,18 @@ namespace UnitTestTraining.Tests
         [Test()]
         public void Today_Is_XMas()
         {
-            Assert.AreEqual("Merry X'Mas", _holiday.SayXMas());
+            ReturnShouldBe("Merry X'Mas");
         }
 
         [Test()]
         public void Today_Is_Not_XMas()
         {
-            Assert.AreEqual("Very sad, Today is not X'Mas", _holiday.SayXMas());
+            ReturnShouldBe("Very sad, Today is not X'Mas");
+        }
+
+        private void ReturnShouldBe(string expected)
+        {
+            Assert.AreEqual(expected, _holiday.SayXMas());
         }
     }
 }
