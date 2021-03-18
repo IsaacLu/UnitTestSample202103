@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmYaVnvX6mEVIGfwIiok9TLyP7tFLngrzIr4Pi8nQep00hazWN2e3vgOp4HSgmJFgvmehnNyBRN0D6pHXN71tA==",
+  "dgSpecHash": "DiwIQPHkQpV3jz2zVbtFBWvmE26Edv5ioIis5rl8ujTBcoNA0eiYY/mc0kAPsuvqnYknJABKH21TfbQ7ppqmoQ==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Self\\UnitTest20210318\\UnitTestTraining\\UnitTestTraining\\UnitTestTraining.csproj",
+  "projectFilePath": "D:\\Code\\Self\\UnitTestTraining\\UnitTestSample202103\\UnitTestTraining\\UnitTestTraining.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isaac.lu78.568WIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

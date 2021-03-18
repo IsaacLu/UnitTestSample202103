@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Self\\UnitTest20210318\\UnitTestTraining\\UnitTestTraining\\UnitTestTraining.csproj",
+      "projectUniqueName": "D:\\Code\\Self\\UnitTestTraining\\UnitTestSample202103\\UnitTestTraining\\UnitTestTraining.csproj",
       "projectName": "UnitTestTraining",
-      "projectPath": "D:\\Code\\Self\\UnitTest20210318\\UnitTestTraining\\UnitTestTraining\\UnitTestTraining.csproj",
+      "projectPath": "D:\\Code\\Self\\UnitTestTraining\\UnitTestSample202103\\UnitTestTraining\\UnitTestTraining.csproj",
       "packagesPath": "C:\\Users\\isaac.lu78.568WIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Self\\UnitTest20210318\\UnitTestTraining\\UnitTestTraining\\obj\\",
+      "outputPath": "D:\\Code\\Self\\UnitTestTraining\\UnitTestSample202103\\UnitTestTraining\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
