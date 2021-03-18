@@ -6,12 +6,19 @@ namespace UnitTestTraining
     {
         public string SayXMas()
         {
-            if (DateTime.Now.Month.Equals(12) && DateTime.Now.Day.Equals(25))
+            var today = GetToday();
+            if (today.Month.Equals(12) && today.Day.Equals(25))
             {
                 return "Merry X'Mas";
             }
 
             return "Very sad, Today is not X'Mas";
         }
+
+        protected virtual DateTime GetToday()
+        {
+            return DateTime.Now;
+        }
     }
+
 }
